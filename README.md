@@ -1,2 +1,2 @@
 # control-homework2
-2021732082 박종영
+19981201 Park jongyeong
