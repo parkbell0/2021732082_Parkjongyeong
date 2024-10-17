@@ -1,3 +1,3 @@
 # control-homework2
-2021732082 박종영 
-(2번 Collaborator 기능을 사용하기 위해 처음으로 수정)
+1998.12.01 PARK JONG YEONG 
+(2018732069 이재준이 Collaborator로 협업함)
